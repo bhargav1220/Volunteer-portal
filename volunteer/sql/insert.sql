@@ -1,0 +1,1 @@
+insert into users (u_id,name,dob,email,mobileno,usertype) values ('B190161CS','Saketh','03-10-2001','challa_b190161cs@nitc.ac.in','*******','student');
